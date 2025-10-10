@@ -1,0 +1,2 @@
+# olamundo.c
+primeiro exercício
